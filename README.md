@@ -1,6 +1,6 @@
 - 👋 Hi, Roshan Mitra this side
 - 👀 I’m interested in Competitive Programming and Web Dev
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning MERN Stack. Have an interest more in backend!
 - 💞️ Actively looking for internships
 - 📫 Reach out to me  https://www.linkedin.com/in/roshan-mitra-601518168/
 
