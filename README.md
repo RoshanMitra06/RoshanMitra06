@@ -63,8 +63,8 @@ Exercise 😊           3 mins          ░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 📈 **my github stats**
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RoshanMitra06&show_icons=true&theme=gotham" alt="RoshanMitra" />
-  </p>
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RoshanMitra06&show_icons=true&theme=radical" alt="RoshanMitra" /></p>
+  <p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RoshanMitra06&theme=dracula" />
   
 **🏆 GitHub Profile Trophy:**
 <p align="center">
