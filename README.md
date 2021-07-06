@@ -31,7 +31,7 @@
   </a>
     </br>
     <br>
-  
+ <img align="centre" alt="GIF" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png"/>
 Hello I am Roshan Mitra a web developer enthusiast from India. Currently exploring the IT field.
 My passion for software lies with dreaming up ideas and making them come true
 with elegant interfaces 
@@ -62,8 +62,16 @@ Exercise 😊           3 mins          ░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-📈 my github stats
+📈 **my github stats**
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RoshanMitra06&show_icons=true&theme=gotham" alt="RoshanMitra" />
+  </p>
+  
+**🏆 GitHub Profile Trophy:**
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=RoshanMitra06&column=8&theme=onedark&no-frame=true&no-bg=true"/>
+</a>
+</p>
 <!---
 RoshanMitra06/RoshanMitra06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
