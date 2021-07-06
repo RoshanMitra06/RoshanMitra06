@@ -17,7 +17,7 @@
    <a href="https://www.hackerrank.com/ROSHAN06">
   <img align="left" alt="Hackerrank" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/c5359309d97b2366664484d90ea9e8a8956f28f4/icons/hackerrank.svg" />
   </a>
-  <a href="  https://www.hackerearth.com/@roosh.06">
+  <a href="https://www.hackerearth.com/@roosh.06">
   <img align="left" alt="Hackerearth" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/c5359309d97b2366664484d90ea9e8a8956f28f4/icons/hackerearth.svg" />
   </a>
  <a href="https://www.instagram.com/roshanmitra06/?hl=en">
